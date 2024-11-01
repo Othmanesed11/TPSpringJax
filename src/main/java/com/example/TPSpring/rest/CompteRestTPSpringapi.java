@@ -11,7 +11,8 @@ import java.util.logging.Logger;
 
 @Component
 @Path("/banque")
-public class CompteRestTPSpringapi {
+public class
+CompteRestTPSpringapi {
     private static final Logger logger = Logger.getLogger(CompteRestTPSpringapi.class.getName());
 
     @Autowired
